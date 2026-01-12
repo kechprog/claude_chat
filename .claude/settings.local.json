@@ -1,5 +1,9 @@
 {
+  "enabledMcpjsonServers": [
+    "hello-world"
+  ],
   "enabledPlugins": {
     "plugin-dev@claude-plugins-official": true
-  }
+  },
+  "enableAllProjectMcpServers": true
 }
